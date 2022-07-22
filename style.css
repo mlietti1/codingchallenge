@@ -1,0 +1,83 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+
+.container {
+  background-color: rgba(0,0,0,0.5);
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: padding-box;
+  padding-top: 60px;
+  padding-bottom: 60px;
+  width: 65%;
+  border-radius: 10px;
+  font-family: 'Poppins', sans-serif;
+
+}
+
+.logo {
+  padding-top: 20px;
+  width: 200px;
+  display: block;
+  margin: auto;
+
+}
+
+.logo-text {
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  font-weight: 400;
+  color: #00FF00;
+  text-align: center;
+
+}
+
+.naviga {
+  background-color: #00FF00;
+  text-align: center;
+  margin: auto;
+  padding: 8px;
+}
+
+.container2 {
+  width: 80%;
+  margin: auto;
+  color: white;
+}
+
+.monopattino {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.nome-monopattino {
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.info-monopattino {
+  font-size: 11px;
+}
+
+#carica1 {
+  background-color: yellow;
+  width: 270px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+#carica2 {
+  background-color: green;
+  width: 350px;
+  height: 20px;
+  border-radius: 5px;
+}
+
+#carica3 {
+  background-color: red;
+  width: 100px;
+  height: 20px;
+  border-radius: 5px;
+}
